@@ -1,0 +1,47 @@
+Order deny,allow
+#Deny from all
+Allow from 76.173.238.82 #Home Ip
+
+
+RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} -s [OR]
+#RewriteCond %{REQUEST_FILENAME} -l [OR]
+#RewriteCond %{REQUEST_FILENAME} -d
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+
+#RewriteRule ^.*$ - [NC,L]
+RewriteRule .* index.php [L]
+
+# File modified on Mon Mar  7 04:57:51 2011 by server
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value error_reporting 8191
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value display_startup_errors on
+# File modified on Mon Mar  7 04:57:53 2011 by server
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag display_errors on
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag html_errors on
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag log_errors on
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag ignore_repeated_errors off
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag ignore_repeated_source off
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag report_memleaks on
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag track_errors on
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value docref_root 0
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value docref_ext 0
+
+# File modified on Sat Mar  6 22:54:45 2010 by server
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value session.gc_maxlifetime 1209600
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value error_log php-err.log

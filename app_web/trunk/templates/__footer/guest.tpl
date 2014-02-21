@@ -1,0 +1,1 @@
+<p><a href="http://tracks.ponyengine.com">{$config->title}</a> &copy; 2013&nbsp;|&nbsp; For any question email us at <a href="mailto:info@tracks.ponyengine.com">info@tracks.ponyengine.com</a></p>

@@ -1,0 +1,7 @@
+Order deny,allow
+#Deny from all
+
+
+<IfModule mod_php5.c>
+php_value max_execution_time 259200
+</IfModule>

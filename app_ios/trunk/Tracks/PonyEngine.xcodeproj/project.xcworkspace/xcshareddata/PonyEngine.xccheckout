@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1EC4A6AD-05AE-422E-9267-2555A67B8086</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PonyEngine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D1DEA89-1CA5-4EB2-9140-46F0C5677DED</key>
+		<string>https://xp-dev.com/svn/PE_Tracks/app_ios/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tracks/PonyEngine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D1DEA89-1CA5-4EB2-9140-46F0C5677DED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1D1DEA89-1CA5-4EB2-9140-46F0C5677DED</key>
+		<string>https://xp-dev.com/svn/PE_Tracks</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://xp-dev.com/svn/PE_Tracks/app_ios/trunk/Tracks/PonyEngine.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D1DEA89-1CA5-4EB2-9140-46F0C5677DED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>app_ios/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D1DEA89-1CA5-4EB2-9140-46F0C5677DED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>app_ios (trunk)</string>
+		</dict>
+	</array>
+</dict>
+</plist>

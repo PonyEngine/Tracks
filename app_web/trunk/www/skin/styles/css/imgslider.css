@@ -1,0 +1,52 @@
+<!--
+/**
+ * Slideshow style rules.
+ */
+.slideshow {
+    margin:0 auto;
+    width:205px;
+    height:105px;
+    background:transparent url(/skin/images/imgslider/bg_slideshow.jpg) no-repeat 0 0;
+    position:relative;
+}
+.slideshow .slidesContainer {
+    margin:0 auto;
+    width:190px;
+    height:105px;
+    overflow:hidden; /* allow scrollbar */
+    position:relative;
+}
+.slideshow .slidesContainer .slide {
+    margin:10 auto;
+    width:150px; /* reduce by 20 pixels of #slidesContainer to avoid horizontal scroll */
+    height:105px;
+}
+
+/**
+ * Slideshow controls style rules.
+ */
+.control {
+    display:block;
+    width:15px;
+    height:100px;
+    text-indent:-10000px;
+    position:absolute;
+    cursor: pointer;
+}
+.leftControl {
+    top:0;
+    left:0;
+    background:transparent url(/skin/images/imgslider/control_left.jpg) no-repeat 0 0;
+}
+.rightControl {
+    top:0;
+    right:0;
+    background:transparent url(/skin/images/imgslider/control_right.jpg) no-repeat 0 0;
+}
+
+/**
+ * Style rules for Demo page
+ */
+
+
+-->

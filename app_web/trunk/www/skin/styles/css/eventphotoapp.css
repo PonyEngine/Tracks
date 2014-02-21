@@ -1,0 +1,37 @@
+  preview
+{
+width:200px;
+border:solid 1px #dedede;
+padding:10px;
+}
+#preview
+{
+color:#cc0000;
+font-size:12px
+}
+.fileinput-button {
+    float: left;
+    margin-right: 4px;
+    overflow: hidden;
+    position: relative;
+}
+.fileinput-button input {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    -moz-transform: translate(-300px, 0pt) scale(4);
+    border-color: transparent;
+    border-style: solid;
+    border-width: 0 0 100px 200px;
+    cursor: pointer;
+    direction: ltr;
+    margin: 0;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+  input.red {background-color: #FFCCFF }

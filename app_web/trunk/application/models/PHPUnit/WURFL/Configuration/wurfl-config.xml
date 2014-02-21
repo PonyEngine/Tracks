@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wurfl-config>
+    <wurfl>
+         <main-file>../../../resources/wurfl-regression.xml</main-file>
+        <patches/> 	       
+    </wurfl>
+    <!--  
+    <persistence>
+    	<provider>memcache</provider>
+    </persistence>
+    -->
+    
+    <persistence>
+    	<provider>file</provider>
+    	<params>dir=/cache</params>
+    </persistence>
+    
+    <cache>
+    	<provider>null</provider>
+    	<params></params>
+    </cache>
+</wurfl-config>

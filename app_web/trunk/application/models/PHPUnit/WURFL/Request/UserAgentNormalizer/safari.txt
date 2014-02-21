@@ -1,0 +1,6 @@
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; de-de) AppleWebKit/525.13 (KHTML, like Gecko) Version/3.1 Safari/525.13=Mozilla/5.0 (Macintosh; U; Safari/525
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/525.18 (KHTML, like Gecko) Shiira Safari/125=Mozilla/5.0 (Macintosh; U; Safari/125
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/526.1+ (KHTML, like Gecko) Version/3.0.4 Safari/523.12.2=Mozilla/5.0 (Macintosh; U; Safari/523
+Mozilla/5.0 (X11; 78; CentOS; US-en) AppleWebKit/527+ (KHTML, like Gecko) Bolt/0.920 Version/3.0 Safari/523.15=Mozilla/5.0 (X11; 78; CentOS; US-en) AppleWebKit/527+ (KHTML, like Gecko) Bolt/0.920 Version/3.0 Safari/523.15
+Mozilla/5.0 (X11; U; Linux armv4tl; c) AppleWebKit/525.1+ (KHTML, like Gecko, Safari/525.1+) openmoko-browser2=Mozilla/5.0 (X11; U; Safari/525
+Mozilla/5.0 (X11; U; Linux; fi-FI) AppleWebKit/527+ (KHTML, like Gecko, Safari/419.3) Qt/4.5.0=Mozilla/5.0 (X11; U; Safari/419

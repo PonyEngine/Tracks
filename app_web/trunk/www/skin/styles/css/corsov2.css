@@ -1,0 +1,94 @@
+HTML
+{
+	background: #385672 url(/skin/images/splash-bg2.jpg) no-repeat top center;
+}
+BODY
+{
+	width: 790px;
+	margin: 0 auto;
+}
+SECTION.form-box
+{
+	width: 465px;
+	float: left;
+	text-align: center;
+	margin: 0 0 0 30px;
+}
+SECTION.form-box H1
+{
+	font-family: bebas-neue, helvetica, "san serif";
+	font-size: 48px;
+	font-weight: normal;
+}
+SECTION.form-box P
+{
+	font-family: atrament-web, helvetica, arial, "san serif";
+	margin: 20px 30px 42px;
+	font-size: 24px;
+}
+FORM P.email-message
+{
+	font-family: helvetica, arial, "san serif";
+	font-style: italic;
+	margin: 0 0 6px;
+	font-size: 15px;
+}
+HEADER
+{
+	width: 677px;
+	float: left;
+	padding: 69px 0 0;
+}
+HEADER IMG
+{
+	float: left;
+	margin: 20px 21px 0 0;
+}
+HEADER A.logo
+{
+	background: url(/skin/images/bump-track-splash-logo.png) no-repeat;
+	display: block;
+	width: 515px;
+	height: 118px;
+	text-indent: -10000px;
+	float: left;
+}
+SECTION.phone-graphic
+{
+	float: left;
+	width: 274px;
+	position: relative;
+	top: -131px;
+	left: -96px;
+}
+.form-box
+{
+	width: 400px;
+}
+.form-box INPUT
+{
+}
+.form-box INPUT#email
+{
+	background: transparent url(/skin/images/email-form.png) no-repeat;
+	width: 357px;
+	height: 53px;
+	border: none;
+	text-align: center;
+	color: #7E8B97;
+	font-size: 18px;
+	outline: none;
+}
+.form-box INPUT.submit-button
+{
+	width: 182px;
+	background: transparent url(/skin/images/sign-up-button.png) no-repeat;
+	border: none;
+	display: block;
+	height: 66px;
+	margin: 0 auto;
+	cursor: pointer;
+}
+#shaker
+{
+}
